@@ -1,2 +1,8 @@
 /* Put your CSS Styling here! */
-body{background-color: green;}
+body{background-color: #ffe6e6;}
+
+.img{
+	position: absolute;
+	top: 50;
+	left: 250;
+}
